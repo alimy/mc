@@ -11,3 +11,5 @@ src/github.com
 bin
 pkg
 test.pids
+.idea/
+*.iml
