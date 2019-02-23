@@ -1,3 +1,3 @@
-module github.com/alimy/mc/v2
+module github.com/alimy/mc
 
 go 1.12
